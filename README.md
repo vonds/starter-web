@@ -1,1 +1,1 @@
-###Copyright: Git.Training.
+"Please fork this repo and then issue request for review"
